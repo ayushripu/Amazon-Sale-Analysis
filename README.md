@@ -39,7 +39,7 @@ Amazon-Sale-Analysis/
 * Fixed column names
 * Converted data types
 
-### ✔️ Data Analysis
+### ✔️ Data Analysis  
 
 * Category-wise sales
 * State-wise sales
