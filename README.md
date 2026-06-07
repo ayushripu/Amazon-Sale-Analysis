@@ -7,7 +7,7 @@ It focuses on data cleaning, transformation, visualization, and extracting meani
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 * Python 🐍
 * Pandas
