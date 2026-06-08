@@ -10,7 +10,7 @@ It focuses on data cleaning, transformation, visualization, and extracting meani
 ## 🛠️ Tech Stack
 
 * Python 🐍
-* Pandas
+* Pandas 
 * Matplotlib
 * MySQL
 * Jupyter Notebook
