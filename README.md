@@ -5,7 +5,7 @@
 This project analyzes Amazon sales data using **Python (Pandas, Matplotlib)** and **MySQL**.
 It focuses on data cleaning, transformation, visualization, and extracting meaningful business insights.
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
